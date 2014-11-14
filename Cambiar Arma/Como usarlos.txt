@@ -1,0 +1,3 @@
+Si por ejemplo cambias la Pistola Binaria por el Arma Binaria, cargas derPistolaBinaria (si va a la derecha, sino izq...), después derCambio y terminas con derArmaBinaria.
+Despues de cargar derArmaBinaria se supone que cargas la imagen derQuieto de esa arma.
+Y así con el resto de los cambios posibles :)
